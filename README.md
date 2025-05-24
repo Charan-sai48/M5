@@ -22,7 +22,7 @@ int main() {
 }
 ```
 ## OUTPUT:
- 	![image](https://github.com/user-attachments/assets/aeeafe6d-fd52-472b-a0d5-37eac2780e8a)
+ ![image](https://github.com/user-attachments/assets/aeeafe6d-fd52-472b-a0d5-37eac2780e8a)
 
 
 
