@@ -22,7 +22,8 @@ int main() {
 }
 ```
 ## OUTPUT:
- 	
+ 	![image](https://github.com/user-attachments/assets/aeeafe6d-fd52-472b-a0d5-37eac2780e8a)
+
 
 
 
@@ -70,7 +71,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-         		
+![image](https://github.com/user-attachments/assets/847f712f-165b-4450-85c7-9d2c80e45cfd)
+  		
 ## RESULT:
 
 Thus the program has been executed successfully.
@@ -117,6 +119,7 @@ int main() {
 ```
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/2e9f3bb7-a9fa-42b2-b591-e45041358fc5)
 
 
  
@@ -160,6 +163,9 @@ int main(void)
 
     for (int i = 1; i <= num_rows; i++)
     {
+        for (j = 0; j < num_rows - i - 2; j++) {
+            printf(" ");
+        }
         for (int j = 1; j <= i; j++)
         {
             printf("%c ", str[index % len]);
@@ -173,6 +179,7 @@ int main(void)
 ```
 
  ## OUTPUT
+![image](https://github.com/user-attachments/assets/51780412-17d2-4274-9691-4cedd560ea3e)
 
  
 
@@ -225,7 +232,8 @@ int main() {
 ```
 ## OUTPUT
 
- 
+ ![image](https://github.com/user-attachments/assets/f7c9319b-84b9-41cd-aa38-7fb238333492)
+
 
 ## RESULT
 
